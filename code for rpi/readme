@@ -1,0 +1,15 @@
+I have used Rpi 3B+ Model
+Make sure to install the following packages on rpi before executing the code:
+
+pyaudio
+speechtotext recognition
+vosk
+
+python 3.0 version
+
+Once all this is installed, you need to buy a USB type microphone which is available for around 250-300 INR in the market.
+After connecting it, you'll be able to run the code without any error.
+Saving of the output doesn't happen if you use Thonny on Rpi, for that run the program directly on terminal after entire code is saved on thonny software.
+Once you run it on the terminal, it will be able to take input from user even in terminal
+and the output also gets stored in a new txt file
+which will be saved on desktop
